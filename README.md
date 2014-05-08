@@ -1,4 +1,0 @@
-SoCaWoTest
-==========
-
-Software Carpentry Workshop
